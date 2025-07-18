@@ -1,4 +1,4 @@
-# Hi there, I'm a Data Scientist at Dataeaze 👋
+# Hi there, I'm a Data Scientist  👋
 
 ## 🔭 Cool Projects I've Worked On
 
